@@ -20,7 +20,7 @@ BASEDIR=$(dirname "$SCRIPT")
 export PATH=${BASEDIR}/homer/bin:${PATH}
 
 # Custom parameters
-THREADS=4
+THREADS=12
 QUAL=30      # Mapping quality threshold
 
 # CMD parameters
