@@ -10,6 +10,7 @@ src/picard
 src/idr-2.0.3
 src/python3
 src/IGVTools/
+src/freebayes/
 
 # Compiled Object files
 *.slo
